@@ -12,10 +12,10 @@ Skills: REACT | JS | TS | HTML | CSS | REDUX | STYLED-COMPONENTS | PYTHON | DJAN
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=efood" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=efood&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=eplay" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=eplay&theme=radical" />
 </a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MarcosMantovani)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/marcos-vinicius-mantovani//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/marcos_mantovani_//)  
