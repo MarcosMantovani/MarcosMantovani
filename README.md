@@ -19,8 +19,8 @@ Skills: REACT | JS | TS | HTML | CSS | REDUX | STYLED-COMPONENTS | PYTHON | DJAN
 <a href="https://github.com/MarcosMantovani/eplay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=eplay&theme=radical" />
 </a>
-<a href="https://github.com/MarcosMantovani/efood">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=efood&theme=radical" />
+<a href="https://github.com/MarcosMantovani/share_music">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=share_music&theme=radical" />
 </a>
 <a href="https://github.com/MarcosMantovani/eplay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=eplay&theme=radical" />
