@@ -6,7 +6,7 @@ I am a Full Stack Python developer and an electronics technician.
 
 <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/react.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/js.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/ts.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/html.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/css.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/redux.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/python.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/django.png" />
 
-REACT | JS | TS | HTML | CSS | REDUX | STYLED-COMPONENTS | PYTHON | DJANGO | REST FRAMEWORK
+REACT | JS | TS | HTML | CSS | REDUX | STYLED-COMPONENTS | PYTHON | DJANGO | REST FRAMEWORK | C
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosMantovani&theme=radical" />
