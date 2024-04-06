@@ -4,7 +4,7 @@ I am a Full Stack Python developer and an electronics technician.
 
 Skills: REACT | JS | TS | HTML | CSS | REDUX | STYLED-COMPONENTS | PYTHON | DJANGO | REST FRAMEWORK
 
-<img height=30 align="center" src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png" />
+<img height=40 align="center" src="https://diegomariano.com/wp-content/uploads/2021/06/react-logo.png" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosMantovani&theme=radical" />
