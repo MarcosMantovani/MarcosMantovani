@@ -17,11 +17,11 @@ REACT | JS | TS | HTML | CSS | REDUX | STYLED-COMPONENTS | PYTHON | DJANGO | RES
 
 ## Some projects I've worked on:
 
-<a href="https://github.com/MarcosMantovani/efood">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=efood&theme=radical" />
-</a>
 <a href="https://github.com/MarcosMantovani/Textly">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=Textly&theme=radical" />
+</a>
+<a href="https://github.com/MarcosMantovani/efood">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=efood&theme=radical" />
 </a>
 <br>
 <br>
