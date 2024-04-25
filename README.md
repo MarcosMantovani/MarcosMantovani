@@ -20,16 +20,16 @@ REACT | JS | TS | HTML | CSS | REDUX | STYLED-COMPONENTS | PYTHON | DJANGO | RES
 <a href="https://github.com/MarcosMantovani/efood">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=efood&theme=radical" />
 </a>
-<a href="https://github.com/MarcosMantovani/eplay">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=eplay&theme=radical" />
+<a href="https://github.com/MarcosMantovani/Textly">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=Textly&theme=radical" />
 </a>
 <br>
 <br>
 <a href="https://github.com/MarcosMantovani/share_music">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=share_music&theme=radical" />
 </a>
-<a href="https://github.com/MarcosMantovani/bookstore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=bookstore&theme=radical" />
+<a href="https://github.com/MarcosMantovani/eplay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MarcosMantovani&repo=eplay&theme=radical" />
 </a>
 <br>
 <br>
