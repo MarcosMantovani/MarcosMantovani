@@ -1,4 +1,4 @@
-## Hi there 👋, my name is Marcos Mantovani!
+## Hi there 👋
 ### About me
 I'm a full stack Python developer graduated from EBAC and an electronics technician graduated from IFSC. My goal is to use technology to solve complex challenges in an efficient and sophisticated manner.
 
