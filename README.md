@@ -4,7 +4,7 @@ I'm a full stack Python developer graduated from EBAC and an electronics technic
 
 I consider myself a happy person, easy to socialize with, and always committed to delivering more than expected within the deadline, giving my best in everything I do.
 
-### Skills:
+### Hard Skills:
 
 <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/react.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/js.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/ts.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/html.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/css.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/redux.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/python.png" /> <img height=40 align="center" src="https://github.com/MarcosMantovani/MarcosMantovani/blob/main/icons/django.png" />
 
