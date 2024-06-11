@@ -10,9 +10,6 @@ I consider myself a happy person, easy to socialize with, and always committed t
 
 REACT | JS | TS | HTML | CSS | REDUX | STYLED-COMPONENTS | PYTHON | DJANGO | REST FRAMEWORK | C
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosMantovani&theme=radical" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosMantovani&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
